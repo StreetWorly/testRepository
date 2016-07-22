@@ -1,0 +1,4 @@
+﻿$ git add sample.txt
+$ git commit -m "addの説明を追加"
+[master 1ef5c8c] addの説明を追加
+ 1 files changed, 1 insertions(+), 1 deletions(-)
