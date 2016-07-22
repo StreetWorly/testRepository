@@ -1,4 +1,7 @@
 ﻿$ git add sample.txt
-$ git commit -m "addの説明を追加"
+$ git commit -m "marginの説明"
 [master 1ef5c8c] addの説明を追加
  1 files changed, 1 insertions(+), 1 deletions(-)
+サルでもわかるGitコマンド
+add 変更をインデックスに登録する
+commit インデックスの状態を記録する
